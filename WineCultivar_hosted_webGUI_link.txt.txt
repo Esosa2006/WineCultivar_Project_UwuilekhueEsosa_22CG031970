@@ -2,5 +2,5 @@ NAME: ANINGA LIKITA
 MATRIC NUMBER: 22CG031882
 ML ALGORITHM USED: RANDOM FOREST
 MODEL PERSISTENCE METHOD USED: JOBLIB
-LIVE URL: 
-GITHUB REPOSITORY: 
+LIVE URL: https://winecultivar-project-aningalikita.onrender.com
+GITHUB REPOSITORY: https://github.com/aniLikita/WineCultivar_Project_AningaLikita_22CG031882
