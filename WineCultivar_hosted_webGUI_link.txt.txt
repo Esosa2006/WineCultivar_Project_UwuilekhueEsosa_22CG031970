@@ -1,6 +1,6 @@
-NAME: ANINGA LIKITA
-MATRIC NUMBER: 22CG031882
+NAME: UWUILEKHUE ESOSA
+MATRIC NUMBER: 22CG031970
 ML ALGORITHM USED: RANDOM FOREST
 MODEL PERSISTENCE METHOD USED: JOBLIB
 LIVE URL: https://winecultivar-project-aningalikita.onrender.com
-GITHUB REPOSITORY: https://github.com/aniLikita/WineCultivar_Project_AningaLikita_22CG031882
+GITHUB REPOSITORY: https://github.com/Esosa2006/WineCultivar_Project_UwuilekhueEsosa_22CG031970
